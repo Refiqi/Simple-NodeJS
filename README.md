@@ -2,9 +2,12 @@
 >
 ---
 ### Pre
+  Make sure You already have Node and NPM installed
 
-    Make sure You already have Node and NPM installed
+
     Run `node -v`
+
+
     Run `npm -v`
 
 ### Run Local
