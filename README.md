@@ -5,10 +5,10 @@
   Make sure You already have Node and NPM installed
 
 
-    Run `node -v`
+Run `node -v`
 
 
-    Run `npm -v`
+Run `npm -v`
 
 ### Run Local
 
