@@ -1,17 +1,18 @@
-h1>Simple NodeJS with Express
+# Simple NodeJS with Express
 >
 ---
-h3>Pre
-  Make sure You already have Node and NPM installed with
-  Run `node -v`
-  Run `npm -v`
+### Pre
 
-h3>Run Local
+    Make sure You already have Node and NPM installed
+    Run `node -v`
+    Run `npm -v`
+
+### Run Local
 
     git clone <url repo> | Clone this repo
     Open the folder that contains the file that have been cloned
     Run `node Express-server,js`
     The server Will run at localhost:3000
 
-h4> Author
+#### Author
 > Refiqi Muhamad Fadila | refyfadhila96@gmail.com
