@@ -142,6 +142,6 @@ app.get('/', (req, res) => {
 </html>
 
 `);
-
-
 })
+
+console.log('Running at localhost:3000')
