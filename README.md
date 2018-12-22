@@ -1,5 +1,5 @@
 # Simple NodeJS with Express
->
+> https://refiqi-blog.herokuapp.com
 ---
 ### Pre
   Make sure You already have Node and NPM installed
@@ -14,7 +14,7 @@ Run `npm -v`
 
     git clone <url repo> | Clone this repo
     Open the folder that contains the file that have been cloned
-    Run `node Express-server,js`
+    Run `node Express-server.js`
     The server Will run at localhost:3000
 
 #### Author
