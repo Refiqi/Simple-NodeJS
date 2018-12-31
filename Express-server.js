@@ -132,7 +132,8 @@ app.get('/', (req, res) => {
             <h2>Stalk Me Here</h2>
             <div class="content">
 
-                <a href="http://github.com/refiqi" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/refiqi-fadila" target="_blank">Linked-in</a>
+                <a href="http://github.com/refiqi" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/refiqi-fadila" target="_blank">Linked-in</a> <br>
+                <a href="https://refiqi-cms-nodejs.herokuapp.com/" target="_blank">My-Blog</a>
 
             </div>
         </section>
