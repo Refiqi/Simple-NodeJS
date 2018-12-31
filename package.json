@@ -18,7 +18,8 @@
   "homepage": "https://github.com/Refiqi/Simple-NodeJS#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
